@@ -13,7 +13,7 @@
 <!-- </div> -->
 
 <!-- ## Description -->
-
+a fork of [ByProt](https://github.com/BytedProtein/ByProt) adding ProteinMPNN CMLM inpainting scripts
 
 ByProt is a versatile toolkit designed for generative learning in protein research. It currently focuses primarily on structure-based sequence design (a.k.a., fixedbb), offering the following key features:
 
